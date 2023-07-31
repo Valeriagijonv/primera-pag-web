@@ -20,7 +20,7 @@ Esta es mi primera página web sobre las increíbles series de Minecraft: Karmal
 ## Instrucciones de Uso 📝
 
 1. Clona este repositorio. 📁
-2. Abre `https://thunderous-kitten-c3a7e8.netlify.app/` en tu navegador web. 🌐
+2. Abre https://thunderous-kitten-c3a7e8.netlify.app/ en tu navegador web. 🌐
 
 ¡Espero que disfrutes explorando las mejores series de Minecraft en esta página web! Si tienes alguna sugerencia o comentario, no dudes en ponerte en contacto conmigo. 🤗
 
